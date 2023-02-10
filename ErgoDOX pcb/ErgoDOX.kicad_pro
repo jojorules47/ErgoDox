@@ -448,6 +448,14 @@
     [
       "d101fd5b-e8aa-41c8-b9b4-fe336b239c45",
       ""
+    ],
+    [
+      "18ff92bb-5363-4719-a220-bfe48d0b15ea",
+      "esp_lh"
+    ],
+    [
+      "24b9d15a-ff0c-4fcd-96a9-dbf28fd19941",
+      "esp_rh"
     ]
   ],
   "text_variables": {}
