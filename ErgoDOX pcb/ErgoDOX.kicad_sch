@@ -3878,7 +3878,7 @@
   (symbol (lib_id "Diode:ESD9B3.3ST5G") (at 303.022 201.676 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0a81c4f0-f8fe-4eb6-969c-1d837b9904f2)
-    (property "Reference" "D?" (id 0) (at 305.308 206.502 0)
+    (property "Reference" "D5" (id 0) (at 305.308 206.502 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SMF9.0CA" (id 1) (at 305.308 197.104 0)
@@ -3935,7 +3935,7 @@
   (symbol (lib_id "component:GND") (at 309.118 210.566 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1179e5fb-c6eb-49e9-9332-90a9b0a82bf9)
-    (property "Reference" "#PWR?" (id 0) (at 309.118 210.566 0)
+    (property "Reference" "#PWR015" (id 0) (at 309.118 210.566 0)
       (effects (font (size 0.762 0.762)) hide)
     )
     (property "Value" "GND" (id 1) (at 309.118 212.344 0)
@@ -3991,7 +3991,7 @@
   (symbol (lib_id "component:SWITCH_PUSH") (at 338.582 22.86 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 245e9ccb-5f96-41af-a010-f6ea79a3907f)
-    (property "Reference" "SW_RST?" (id 0) (at 338.582 16.383 0))
+    (property "Reference" "SW_RST4" (id 0) (at 338.582 16.383 0))
     (property "Value" "RST_LH" (id 1) (at 338.582 18.6944 0))
     (property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P" (id 2) (at 338.582 22.86 0)
       (effects (font (size 1.524 1.524)) hide)
@@ -4044,7 +4044,7 @@
   (symbol (lib_name "6PIN_1") (lib_id "component:6PIN") (at 323.85 172.466 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2b883784-3d8d-4546-bd1e-18b4f3cd5953)
-    (property "Reference" "J?" (id 0) (at 322.072 182.118 0)
+    (property "Reference" "J11" (id 0) (at 322.072 182.118 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "USB_LH" (id 1) (at 322.58 163.576 0)
@@ -4100,7 +4100,7 @@
   (symbol (lib_id "component:GND") (at 330.962 27.178 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2f382bc0-533a-4991-9e07-bc1bd10ad5eb)
-    (property "Reference" "#PWR?" (id 0) (at 330.962 27.178 0)
+    (property "Reference" "#PWR022" (id 0) (at 330.962 27.178 0)
       (effects (font (size 0.762 0.762)) hide)
     )
     (property "Value" "GND" (id 1) (at 330.962 28.956 0)
@@ -4362,7 +4362,7 @@
   (symbol (lib_id "Diode:1N5819") (at 326.898 197.104 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7363d8c3-059b-4f1c-bb6e-d524dd3d7421)
-    (property "Reference" "D?" (id 0) (at 327.2155 190.5 0))
+    (property "Reference" "D8" (id 0) (at 327.2155 190.5 0))
     (property "Value" "1N5819HW-7-F" (id 1) (at 325.12 193.04 0))
     (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 326.898 201.549 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4377,7 +4377,7 @@
   (symbol (lib_id "Regulator_Linear:LM337_SOT223") (at 359.664 80.518 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7db6ad57-89fc-470a-be55-bec89ac4e493)
-    (property "Reference" "U?" (id 0) (at 351.79 76.454 0))
+    (property "Reference" "U4" (id 0) (at 351.79 76.454 0))
     (property "Value" "LM337_SOT223" (id 1) (at 359.156 71.374 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (id 2) (at 359.664 85.598 0)
       (effects (font (size 1.27 1.27) italic) hide)
@@ -4393,7 +4393,7 @@
   (symbol (lib_id "Diode:ESD9B3.3ST5G") (at 309.118 201.93 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 81a4f26f-3ba1-4f87-8263-be9a27aabfc5)
-    (property "Reference" "D?" (id 0) (at 311.404 206.756 0)
+    (property "Reference" "D6" (id 0) (at 311.404 206.756 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SMF9.0CA" (id 1) (at 311.404 197.358 0)
@@ -4500,7 +4500,7 @@
   (symbol (lib_id "component:GND") (at 359.664 68.58 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9eddb616-83cc-4c20-9381-79aa48a47aae)
-    (property "Reference" "#PWR?" (id 0) (at 359.664 68.58 0)
+    (property "Reference" "#PWR028" (id 0) (at 359.664 68.58 0)
       (effects (font (size 0.762 0.762)) hide)
     )
     (property "Value" "GND" (id 1) (at 359.664 66.802 0)
@@ -4537,7 +4537,7 @@
   (symbol (lib_id "Diode:ESD9B3.3ST5G") (at 314.96 201.676 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a67cad06-d61f-48b8-a5b0-43e3655248cb)
-    (property "Reference" "D?" (id 0) (at 317.246 206.502 0)
+    (property "Reference" "D7" (id 0) (at 317.246 206.502 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SMF9.0CA" (id 1) (at 317.246 197.104 0)
@@ -4556,7 +4556,7 @@
   (symbol (lib_id "component:GND") (at 330.708 39.878 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ac4dc690-0176-4983-8d5d-f9a95afb317b)
-    (property "Reference" "#PWR?" (id 0) (at 330.708 39.878 0)
+    (property "Reference" "#PWR017" (id 0) (at 330.708 39.878 0)
       (effects (font (size 0.762 0.762)) hide)
     )
     (property "Value" "GND" (id 1) (at 330.708 41.656 0)
@@ -4646,7 +4646,7 @@
   (symbol (lib_id "component:SWITCH_PUSH") (at 338.328 35.052 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bf08161f-7a50-49f2-8435-ba34603e2599)
-    (property "Reference" "SW_RST?" (id 0) (at 338.328 28.575 0))
+    (property "Reference" "SW_RST3" (id 0) (at 338.328 28.575 0))
     (property "Value" "BOOT_LH" (id 1) (at 338.328 30.8864 0))
     (property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P" (id 2) (at 338.328 35.052 0)
       (effects (font (size 1.524 1.524)) hide)
@@ -4924,8 +4924,14 @@
     (path "/e2dfbd3f-a87f-4e30-b4f6-0fbac0b74ee6"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "")
     )
+    (path "/1179e5fb-c6eb-49e9-9332-90a9b0a82bf9"
+      (reference "#PWR015") (unit 1) (value "GND") (footprint "")
+    )
     (path "/2e9c0f6e-df45-4464-ac85-74d0f13ba3da"
       (reference "#PWR016") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/ac4dc690-0176-4983-8d5d-f9a95afb317b"
+      (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
     (path "/439ab8d7-c5d1-4fcd-a7bd-9b819c4a780a"
       (reference "#PWR018") (unit 1) (value "GND") (footprint "")
@@ -4938,6 +4944,9 @@
     )
     (path "/914b7067-aaa8-4c4d-b4ac-34392650033c"
       (reference "#PWR021") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2f382bc0-533a-4991-9e07-bc1bd10ad5eb"
+      (reference "#PWR022") (unit 1) (value "GND") (footprint "")
     )
     (path "/f177451e-5403-4067-9c12-cc7cc4c38353"
       (reference "#PWR023") (unit 1) (value "GND") (footprint "")
@@ -4954,23 +4963,14 @@
     (path "/9c6d5f92-7919-4897-a4e0-d1a29e0af7be"
       (reference "#PWR027") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9eddb616-83cc-4c20-9381-79aa48a47aae"
+      (reference "#PWR028") (unit 1) (value "GND") (footprint "")
+    )
     (path "/18ff92bb-5363-4719-a220-bfe48d0b15ea/cabe4a87-f007-4763-92c6-1c89d9b49a9f"
       (reference "#PWR031") (unit 1) (value "GND") (footprint "")
     )
     (path "/24b9d15a-ff0c-4fcd-96a9-dbf28fd19941/c2e75e3b-c60a-4eea-a91e-5161946692ab"
       (reference "#PWR035") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/1179e5fb-c6eb-49e9-9332-90a9b0a82bf9"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/2f382bc0-533a-4991-9e07-bc1bd10ad5eb"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9eddb616-83cc-4c20-9381-79aa48a47aae"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ac4dc690-0176-4983-8d5d-f9a95afb317b"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/b93eb7b0-47b0-4f54-9ee1-5cac4e593e1a"
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
@@ -5021,16 +5021,16 @@
       (reference "D4") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/0a81c4f0-f8fe-4eb6-969c-1d837b9904f2"
-      (reference "D?") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/7363d8c3-059b-4f1c-bb6e-d524dd3d7421"
-      (reference "D?") (unit 1) (value "1N5819HW-7-F") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D5") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/81a4f26f-3ba1-4f87-8263-be9a27aabfc5"
-      (reference "D?") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D6") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/a67cad06-d61f-48b8-a5b0-43e3655248cb"
-      (reference "D?") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D7") (unit 1) (value "SMF9.0CA") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/7363d8c3-059b-4f1c-bb6e-d524dd3d7421"
+      (reference "D8") (unit 1) (value "1N5819HW-7-F") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00004ec43592"
       (reference "H99") (unit 1) (value "MECHANICAL") (footprint "")
@@ -5066,7 +5066,7 @@
       (reference "J10") (unit 1) (value "USB VCC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/2b883784-3d8d-4546-bd1e-18b4f3cd5953"
-      (reference "J?") (unit 1) (value "USB_LH") (footprint "ErgoDOX pcb:SF USB-C Breakout")
+      (reference "J11") (unit 1) (value "USB_LH") (footprint "ErgoDOX pcb:SF USB-C Breakout")
     )
     (path "/00000000-0000-0000-0000-00004f64e802"
       (reference "LED_A1") (unit 1) (value "LEDa") (footprint "")
@@ -5221,11 +5221,11 @@
     (path "/b58c98d6-d0e9-4634-bae2-90a50399937b"
       (reference "SW_RST2") (unit 1) (value "BOOT") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
     )
-    (path "/245e9ccb-5f96-41af-a010-f6ea79a3907f"
-      (reference "SW_RST?") (unit 1) (value "RST_LH") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
-    )
     (path "/bf08161f-7a50-49f2-8435-ba34603e2599"
-      (reference "SW_RST?") (unit 1) (value "BOOT_LH") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
+      (reference "SW_RST3") (unit 1) (value "BOOT_LH") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
+    )
+    (path "/245e9ccb-5f96-41af-a010-f6ea79a3907f"
+      (reference "SW_RST4") (unit 1) (value "RST_LH") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
     )
     (path "/00000000-0000-0000-0000-00004ffe197c"
       (reference "SX0:10") (unit 1) (value "SX0:3") (footprint "")
@@ -5249,7 +5249,7 @@
       (reference "U3") (unit 1) (value "ESP32-S3 RH") (footprint "Espressif:ESP32-S3-WROOM-1")
     )
     (path "/7db6ad57-89fc-470a-be55-bec89ac4e493"
-      (reference "U?") (unit 1) (value "LM337_SOT223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+      (reference "U4") (unit 1) (value "LM337_SOT223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
   )
 )
